@@ -6,8 +6,12 @@ void main()
   printf("enter the value of supera: ");
   scanf("%d",&supra);
   if(number % 2 == 0)
+  {
   printf("supra is even");
+  }
   else
+  {
   printf("supra is odd");
+  }
   getch()
   }
