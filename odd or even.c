@@ -13,5 +13,5 @@ void main()
   {
   printf("supra is odd");
   }
-  getch()
+  getch();
   }
